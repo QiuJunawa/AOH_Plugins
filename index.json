@@ -21,6 +21,17 @@
       "file": "demo-overlay.js",
       "tools": ["overlay_show", "overlay_hide", "overlay_status"],
       "homepage": "https://github.com/qiujunawa/AOH_Plugins#demo-overlay"
+    },
+    {
+      "id": "note",
+      "name": "便签标签页",
+      "version": "0.1.0",
+      "description": "在左侧导航栏注入一个「便签」标签页，内容存在 localStorage，AI 可通过工具读写。",
+      "author": "qiujunawa",
+      "tags": ["ui", "note"],
+      "file": "note.js",
+      "tools": ["tab_open", "tab_note"],
+      "homepage": "https://github.com/qiujunawa/AOH_Plugins#note"
     }
   ]
 }
