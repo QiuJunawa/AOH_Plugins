@@ -32,6 +32,17 @@
       "file": "note.js",
       "tools": ["tab_open", "tab_note"],
       "homepage": "https://github.com/qiujunawa/AOH_Plugins#note"
+    },
+    {
+      "id": "claw-mode",
+      "name": "Claw模式-demo",
+      "version": "0.0.1",
+      "description": "增加几个新工具用于运行Claw",
+      "author": "qiujunawa",
+      "tags": ["claw"],
+      "file": "claw-mode.js",
+      "tools": ["claw_status", "claw_dispatch"],
+      "homepage": "https://github.com/qiujunawa/AOH_Plugins#claw-mode"
     }
   ]
 }
