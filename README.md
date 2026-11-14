@@ -13,6 +13,10 @@ Agent-On-HTML（单文件 AI Agent）的第三方插件库。
    `https://raw.githubusercontent.com/QiuJunawa/AOH_Plugins/main/index.json`
 3. 点「刷新插件库」，即可看到下面的插件卡片，点安装即可。
 
+## 开发文档
+
+完整的插件开发指南（`defineTool` / AgentAPI / VFS / onUnload / 新建页面 / 往设置页注入 / 排错对照表）见 [develop.md](develop.md)。
+
 ## 插件列表
 
 | id | 名称 | 说明 |
