@@ -15,14 +15,9 @@ Agent-On-HTML（单文件 AI Agent）的第三方插件库。
 
 ## 开发文档
 
-完整的插件开发指南（`defineTool` / AgentAPI / VFS / onUnload / 新建页面 / 往设置页注入 / 排错对照表）见 [develop.md](develop.md)。
+完整的插件开发指南（`defineTool` / AgentAPI / VFS / onUnload / 新建页面 / 往设置页注入 / 排错对照表）见 [develop_docs_for_v2.md](develop_docs_for_v2.md)。
 
-## 插件列表
-
-| id | 名称 | 说明 |
-|---|---|---|
-| `hello` | Hello 示例 | 最小骨架，演示 defineTool / onUnload |
-| `demo-overlay` | 页面叠加层 | 右下角浮层，演示多工具与 DOM 清理 |
+\*若想访问旧版插件开发文档，请见[develop.md](develop.md)
 
 ## 投稿规范
 
